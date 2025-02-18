@@ -1,7 +1,7 @@
 # 🖩 UART Protocol using SystemVerilog  
 
 ## 📄 UART Protocol Documentation  
-[📥 Download Full Document (PDF)](UART%20Protocol%2057.pdf)  
+[📥 Download Full Document (PDF)](UART%20protocol%2057.pdf)  
 
 ## 📌 Project Overview  
 This repository contains the **UART-Protocol** project using **SystemVerilog**. 
